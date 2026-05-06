@@ -1,2 +1,1 @@
-Seoul Bisiklet Kiralama Tahmin Projesi
-Bu proje, Seul şehrindeki günlük bisiklet kiralama sayılarını tahmin etmek için geliştirilmiştir.
+This application, developed using the SeoulBikeData dataset, predicts daily bike rental counts with an accuracy rate of 92%. It is built using Python and machine learning techniques.
